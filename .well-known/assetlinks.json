@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.SambaPoker.game",
+    "package_name": "com.ldl.deeplink",
     "sha256_cert_fingerprints":
-    ["F8:C1:9D:11:03:7E:EA:06:AE:26:94:26:7F:5D:07:95:79:ED:29:4C:37:07:5A:82:53:B2:71:24:F0:AE:D8:6E"]
+    ["52:BB:49:3F:8F:E8:F6:93:22:F7:43:9D:AE:54:64:5E:E7:79:63:D2:7B:12:79:03:E1:26:31:66:6E:B7:A7:F5"]
   }
 }]
