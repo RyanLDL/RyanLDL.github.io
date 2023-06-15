@@ -15,4 +15,9 @@
     "sha256_cert_fingerprints":
     ["F8:C1:9D:11:03:7E:EA:06:AE:26:94:26:7F:5D:07:95:79:ED:29:4C:37:07:5A:82:53:B2:71:24:F0:AE:D8:6E"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.RoyalPoker.game",
+               "sha256_cert_fingerprints": ["EF:DB:14:0E:3B:82:42:60:E2:C2:FD:C3:C0:FA:0B:04:8C:47:B3:C3:9D:11:D0:4C:D5:ED:CD:D8:E5:A2:86:01"] }
 }]
